@@ -1,6 +1,6 @@
 # go-etherify
 
--   **Chain ID**: 1504
+-   **Chain ID**: 1505
 -   **Currency Ticker**: ETY
 -   **Mining Algorithm**: Ethash
 -   **Average Block Time**: ~12 seconds
